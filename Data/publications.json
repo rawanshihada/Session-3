@@ -1,0 +1,551 @@
+[
+  {
+    "pub_id": "P015",
+    "researcher_id": "R003",
+    "title": "Causal Inference with Observational Data",
+    "year": 2017,
+    "citations": 128,
+    "journal": "NeurIPS",
+    "open_access": false
+  },
+  {
+    "pub_id": "P059",
+    "researcher_id": "R009",
+    "title": "Bias in NLP Benchmarks: A Critical Review",
+    "year": 2010,
+    "citations": 68,
+    "journal": "JMLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P014",
+    "researcher_id": "R022",
+    "title": "Multi-lingual BERT Fine-Tuning",
+    "year": 2013,
+    "citations": 160,
+    "journal": "JMLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P056",
+    "researcher_id": "R017",
+    "title": "Deep Learning for Medical Imaging",
+    "year": 2016,
+    "citations": 99,
+    "journal": "Nature Machine Intelligence",
+    "open_access": false
+  },
+  {
+    "pub_id": "P016",
+    "researcher_id": "R018",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2024,
+    "citations": 41,
+    "journal": "ICLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P006",
+    "researcher_id": "R001",
+    "title": "Transformer Models in Low-Resource Settings",
+    "year": 2020,
+    "citations": 112,
+    "journal": "ICML",
+    "open_access": false
+  },
+  {
+    "pub_id": "P025",
+    "researcher_id": "R010",
+    "title": "Bias in NLP Benchmarks: A Critical Review",
+    "year": 2023,
+    "citations": 20,
+    "journal": "JMLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P045",
+    "researcher_id": "R010",
+    "title": "Federated Learning for Privacy Preservation",
+    "year": 2017,
+    "citations": 52,
+    "journal": "ICLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P028",
+    "researcher_id": "R005",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2015,
+    "citations": 108,
+    "journal": "Nature Machine Intelligence",
+    "open_access": false
+  },
+  {
+    "pub_id": "P022",
+    "researcher_id": "R007",
+    "title": "Causal Inference with Observational Data",
+    "year": 2023,
+    "citations": 111,
+    "journal": "CVPR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P036",
+    "researcher_id": "R026",
+    "title": "Graph Neural Networks for Molecule Prediction",
+    "year": 2011,
+    "citations": 31,
+    "journal": "ICLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P047",
+    "researcher_id": "R013",
+    "title": "Self-Supervised Learning in Vision",
+    "year": 2022,
+    "citations": 113,
+    "journal": "Nature Machine Intelligence",
+    "open_access": true
+  },
+  {
+    "pub_id": "P048",
+    "researcher_id": "R001",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2017,
+    "citations": 62,
+    "journal": "ACL",
+    "open_access": false
+  },
+  {
+    "pub_id": "P046",
+    "researcher_id": "R020",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2022,
+    "citations": 115,
+    "journal": "ICLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P_HIDDEN",
+    "researcher_id": "R001",
+    "title": "Data Opens Doors: A Manifesto for Open Research",
+    "year": 2024,
+    "citations": 9999,
+    "journal": "Nature Machine Intelligence",
+    "open_access": true
+  },
+  {
+    "pub_id": "P005",
+    "researcher_id": "R033",
+    "title": "Transformer Models in Low-Resource Settings",
+    "year": 2023,
+    "citations": 38,
+    "journal": "CVPR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P030",
+    "researcher_id": "R010",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2014,
+    "citations": 60,
+    "journal": "ACL",
+    "open_access": true
+  },
+  {
+    "pub_id": "P060",
+    "researcher_id": "R013",
+    "title": "Deep Learning for Medical Imaging",
+    "year": 2016,
+    "citations": 1,
+    "journal": "ACL",
+    "open_access": false
+  },
+  {
+    "pub_id": "P058",
+    "researcher_id": "R002",
+    "title": "Self-Supervised Learning in Vision",
+    "year": 2013,
+    "citations": 137,
+    "journal": "CVPR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P011",
+    "researcher_id": "R008",
+    "title": "Deep Learning for Medical Imaging",
+    "year": 2024,
+    "citations": 143,
+    "journal": "NeurIPS",
+    "open_access": false
+  },
+  {
+    "pub_id": "P041",
+    "researcher_id": "R007",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2010,
+    "citations": 7,
+    "journal": "ICLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P018",
+    "researcher_id": "R023",
+    "title": "Federated Learning for Privacy Preservation",
+    "year": 2010,
+    "citations": 47,
+    "journal": "EMNLP",
+    "open_access": false
+  },
+  {
+    "pub_id": "P021",
+    "researcher_id": "R026",
+    "title": "Deep Learning for Medical Imaging",
+    "year": 2013,
+    "citations": 74,
+    "journal": "JMLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P004",
+    "researcher_id": "R009",
+    "title": "Deep Learning for Medical Imaging",
+    "year": 2017,
+    "citations": 179,
+    "journal": "Nature Machine Intelligence",
+    "open_access": true
+  },
+  {
+    "pub_id": "P007",
+    "researcher_id": "R018",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2014,
+    "citations": 128,
+    "journal": "Nature Machine Intelligence",
+    "open_access": false
+  },
+  {
+    "pub_id": "P009",
+    "researcher_id": "R008",
+    "title": "Deep Learning for Medical Imaging",
+    "year": 2017,
+    "citations": 122,
+    "journal": "ICLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P019",
+    "researcher_id": "R016",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2018,
+    "citations": 98,
+    "journal": "JMLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P038",
+    "researcher_id": "R010",
+    "title": "Graph Neural Networks for Molecule Prediction",
+    "year": 2018,
+    "citations": 42,
+    "journal": "JMLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P039",
+    "researcher_id": "R006",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2019,
+    "citations": 25,
+    "journal": "ICML",
+    "open_access": true
+  },
+  {
+    "pub_id": "P044",
+    "researcher_id": "R027",
+    "title": "Self-Supervised Learning in Vision",
+    "year": 2010,
+    "citations": 179,
+    "journal": "Nature Machine Intelligence",
+    "open_access": true
+  },
+  {
+    "pub_id": "P034",
+    "researcher_id": "R010",
+    "title": "Transformer Models in Low-Resource Settings",
+    "year": 2012,
+    "citations": 127,
+    "journal": "NeurIPS",
+    "open_access": false
+  },
+  {
+    "pub_id": "P042",
+    "researcher_id": "R021",
+    "title": "Uncertainty Quantification in Neural Networks",
+    "year": 2011,
+    "citations": 65,
+    "journal": "ICLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P008",
+    "researcher_id": "R024",
+    "title": "Uncertainty Quantification in Neural Networks",
+    "year": 2015,
+    "citations": 159,
+    "journal": "ACL",
+    "open_access": true
+  },
+  {
+    "pub_id": "P026",
+    "researcher_id": "R014",
+    "title": "Deep Learning for Medical Imaging",
+    "year": 2016,
+    "citations": 194,
+    "journal": "JMLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P017",
+    "researcher_id": "R013",
+    "title": "Causal Inference with Observational Data",
+    "year": 2019,
+    "citations": 111,
+    "journal": "ACL",
+    "open_access": false
+  },
+  {
+    "pub_id": "P023",
+    "researcher_id": "R006",
+    "title": "Transformer Models in Low-Resource Settings",
+    "year": 2011,
+    "citations": 127,
+    "journal": "ICML",
+    "open_access": false
+  },
+  {
+    "pub_id": "P055",
+    "researcher_id": "R031",
+    "title": "Self-Supervised Learning in Vision",
+    "year": 2021,
+    "citations": 143,
+    "journal": "ICML",
+    "open_access": false
+  },
+  {
+    "pub_id": "P002",
+    "researcher_id": "R011",
+    "title": "Multi-lingual BERT Fine-Tuning",
+    "year": 2016,
+    "citations": 197,
+    "journal": "CVPR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P031",
+    "researcher_id": "R001",
+    "title": "Federated Learning for Privacy Preservation",
+    "year": 2021,
+    "citations": 157,
+    "journal": "Nature Machine Intelligence",
+    "open_access": true
+  },
+  {
+    "pub_id": "P049",
+    "researcher_id": "R024",
+    "title": "Uncertainty Quantification in Neural Networks",
+    "year": 2014,
+    "citations": 116,
+    "journal": "ICLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P013",
+    "researcher_id": "R012",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2019,
+    "citations": 194,
+    "journal": "ACL",
+    "open_access": false
+  },
+  {
+    "pub_id": "P029",
+    "researcher_id": "R034",
+    "title": "Deep Learning for Medical Imaging",
+    "year": 2020,
+    "citations": 20,
+    "journal": "ACL",
+    "open_access": true
+  },
+  {
+    "pub_id": "P052",
+    "researcher_id": "R025",
+    "title": "Federated Learning for Privacy Preservation",
+    "year": 2022,
+    "citations": 191,
+    "journal": "Nature Machine Intelligence",
+    "open_access": true
+  },
+  {
+    "pub_id": "P010",
+    "researcher_id": "R026",
+    "title": "Transformer Models in Low-Resource Settings",
+    "year": 2014,
+    "citations": 115,
+    "journal": "Nature Machine Intelligence",
+    "open_access": false
+  },
+  {
+    "pub_id": "P040",
+    "researcher_id": "R026",
+    "title": "Self-Supervised Learning in Vision",
+    "year": 2022,
+    "citations": 59,
+    "journal": "ICLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P053",
+    "researcher_id": "R011",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2021,
+    "citations": 153,
+    "journal": "EMNLP",
+    "open_access": false
+  },
+  {
+    "pub_id": "P001",
+    "researcher_id": "R025",
+    "title": "Causal Inference with Observational Data",
+    "year": 2018,
+    "citations": 26,
+    "journal": "ACL",
+    "open_access": true
+  },
+  {
+    "pub_id": "P003",
+    "researcher_id": "R010",
+    "title": "Multi-lingual BERT Fine-Tuning",
+    "year": 2012,
+    "citations": 171,
+    "journal": "ICLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P057",
+    "researcher_id": "R018",
+    "title": "Graph Neural Networks for Molecule Prediction",
+    "year": 2019,
+    "citations": 9,
+    "journal": "EMNLP",
+    "open_access": false
+  },
+  {
+    "pub_id": "P037",
+    "researcher_id": "R034",
+    "title": "Self-Supervised Learning in Vision",
+    "year": 2019,
+    "citations": 129,
+    "journal": "NeurIPS",
+    "open_access": false
+  },
+  {
+    "pub_id": "P043",
+    "researcher_id": "R004",
+    "title": "Graph Neural Networks for Molecule Prediction",
+    "year": 2019,
+    "citations": 62,
+    "journal": "ICML",
+    "open_access": false
+  },
+  {
+    "pub_id": "P051",
+    "researcher_id": "R002",
+    "title": "Causal Inference with Observational Data",
+    "year": 2023,
+    "citations": 117,
+    "journal": "JMLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P054",
+    "researcher_id": "R006",
+    "title": "Deep Learning for Medical Imaging",
+    "year": 2023,
+    "citations": 68,
+    "journal": "Nature Machine Intelligence",
+    "open_access": false
+  },
+  {
+    "pub_id": "P033",
+    "researcher_id": "R010",
+    "title": "Federated Learning for Privacy Preservation",
+    "year": 2013,
+    "citations": 190,
+    "journal": "JMLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P035",
+    "researcher_id": "R019",
+    "title": "Efficient Data Pipelines at Scale",
+    "year": 2015,
+    "citations": 57,
+    "journal": "JMLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P050",
+    "researcher_id": "R033",
+    "title": "Self-Supervised Learning in Vision",
+    "year": 2014,
+    "citations": 128,
+    "journal": "ICML",
+    "open_access": true
+  },
+  {
+    "pub_id": "P012",
+    "researcher_id": "R020",
+    "title": "Bias in NLP Benchmarks: A Critical Review",
+    "year": 2022,
+    "citations": 2,
+    "journal": "ACL",
+    "open_access": true
+  },
+  {
+    "pub_id": "P024",
+    "researcher_id": "R013",
+    "title": "Bias in NLP Benchmarks: A Critical Review",
+    "year": 2022,
+    "citations": 168,
+    "journal": "NeurIPS",
+    "open_access": false
+  },
+  {
+    "pub_id": "P020",
+    "researcher_id": "R011",
+    "title": "Graph Neural Networks for Molecule Prediction",
+    "year": 2013,
+    "citations": 151,
+    "journal": "JMLR",
+    "open_access": true
+  },
+  {
+    "pub_id": "P027",
+    "researcher_id": "R033",
+    "title": "Graph Neural Networks for Molecule Prediction",
+    "year": 2020,
+    "citations": 114,
+    "journal": "ICLR",
+    "open_access": false
+  },
+  {
+    "pub_id": "P032",
+    "researcher_id": "R026",
+    "title": "Federated Learning for Privacy Preservation",
+    "year": 2022,
+    "citations": 45,
+    "journal": "ICLR",
+    "open_access": true
+  }
+]

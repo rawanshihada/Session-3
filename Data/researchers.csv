@@ -1,0 +1,35 @@
+researcher_id,first_name,last_name,field,institution,joined_year,h_index,publications_count,is_active,country,email
+R025,Hans,Müller,Computer Vision,ETH Zurich,2014,3,15,True,USA,hans.müller@university.edu
+R023,Ivan,Petrov,Machine Learning,University of Toronto,2011,15,45,True,Canada,ivan.petrov@university.edu
+R011,Karim,Obeid,NLP,UBC,2018,18,72,True,Canada,karim.obeid@pssar.ca
+R028,Bruno,Ferreira,Computer Vision,ETH Zurich,2019,3,12,True,UK,bruno.ferreira@university.edu
+R031,Jiyeon,Park,Statistics,MIT,2008,9,27,True,UK,jiyeon.park@university.edu
+R020,Kenji,Tanaka,NLP,Oxford,2022,8,32,False,Germany,kenji.tanaka@university.edu
+R022,Minh,Nguyen,Statistics,McGill University,2017,17,51,False,France,minh.nguyen@university.edu
+R014,Nour,Saleh,Computer Vision,Concordia University,2021,16,96,True,Germany,nour.saleh@pssar.ca
+R016,Li,Chen,Machine Learning,McGill University,2008,7,21,True,Germany,li.chen@university.edu
+R029,Marie,Dubois,NLP,MIT,2013,7,35,True,USA,marie.dubois@university.edu
+R008,Younes,Nasser,Computer Vision,McGill University,2015,16,112,True,Lebanon,younes.nasser@pssar.ca
+R033,Marco,Bianchi,Data Engineering,Oxford,2016,7,42,True,Germany,marco.bianchi@university.edu
+R030,Erik,Johansson,Computer Vision,University of Toronto,2008,15,60,False,France,erik.johansson@university.edu
+R015,James,Martínez,Data Engineering,University of Toronto,2007,14,42,True,UK,james.martínez@university.edu
+R032,Pierre,Moreau,Data Engineering,McGill University,2014,8,24,True,Australia,pierre.moreau@university.edu
+R013,Tariq,Rashid,Machine Learning,UBC,2020,24,168,True,Germany,tariq.rashid@pssar.ca
+R001,Claire,Davidson,Machine Learning,UBC,2008,16,64,True,Jordan,claire.davidson@pssar.ca
+R003,Miguel,Torres,Computer Vision,University of Waterloo,2010,21,126,True,Jordan,miguel.torres@pssar.ca
+R012,Sara,Omar,Bioinformatics,University of Waterloo,2019,17,102,True,Palestine,sara.omar@pssar.ca
+R007,Lena,Elkhoury,NLP,UBC,2014,25,125,True,Germany,lena.elkhoury@pssar.ca
+R017,Emily,Williams,NLP,University of Toronto,2006,20,120,False,Germany,emily.williams@university.edu
+R027,Elif,Yildiz,Computer Vision,Oxford,2012,7,28,False,UK,elif.yildiz@university.edu
+R018,Stefan,Hoffman,Data Engineering,ETH Zurich,2012,14,70,True,UK,stefan.hoffman@university.edu
+R026,Amr,Hassan,Machine Learning,Oxford,2006,14,42,True,Australia,amr.hassan@university.edu
+R004,Hana,Abou-Saleh,Data Engineering,University of Waterloo,2011,17,119,True,UK,hana.abousaleh@pssar.ca
+R024,Anna,Kowalski,Computer Vision,MIT,2021,10,60,False,UK,anna.kowalski@university.edu
+R034,Isabela,Silva,NLP,Oxford,2011,13,52,False,Canada,isabela.silva@university.edu
+R021,Carlos,Ramos,Data Engineering,Oxford,2012,12,36,False,France,carlos.ramos@university.edu
+R006,Arjun,Patel,Robotics,Concordia University,2013,19,76,True,Palestine,arjun.patel@pssar.ca
+R005,Chidi,Okonkwo,Bioinformatics,UBC,2012,22,154,True,Jordan,chidi.okonkwo@pssar.ca
+R019,Priya,Kaur,Data Engineering,McGill University,2012,19,114,False,USA,priya.kaur@university.edu
+R009,Fatima,Siddiqui,Machine Learning,York University,2016,20,80,True,Lebanon,fatima.siddiqui@pssar.ca
+R010,Rania,Dib,Data Engineering,McGill University,2017,23,115,True,UK,rania.dib@pssar.ca
+R002,Layla,Ahmad,NLP,York University,2009,18,72,True,Palestine,layla.ahmad@pssar.ca
